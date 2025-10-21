@@ -19,14 +19,23 @@ This guide condenses official Dutch writing standards into 37 practical rules. I
 
 Read [`dutch-style-guide.md`](dutch-style-guide.md) for complete rules and examples.
 
-### Tooling
+### Installation
 
-Two tools help apply these rules automatically:
+#### Claude Code Plugin (Recommended)
 
-- **[Claude Code Skill](examples/claude-code-skill/)** — Enforces rules when writing Dutch text in Claude Code
-- **[Fabric Pattern](examples/fabric-pattern/improve_dutch_writing/)** — Analyzes and improves existing Dutch text
+Install the skill directly as a Claude Code plugin:
 
-See each tool's README for installation and usage instructions.
+```bash
+claude plugin install https://github.com/lboshuizen/dutch-style-guide
+```
+
+The skill activates automatically when writing Dutch text in Claude Code.
+
+#### Alternative Tool
+
+- **[Fabric Pattern](fabric-pattern/)** — Analyzes and improves existing Dutch text using [Fabric](https://github.com/danielmiessler/fabric)
+
+See the Fabric pattern README for installation and usage instructions.
 
 ## Who This Is For
 
@@ -73,14 +82,23 @@ Deze gids vat officiële Nederlandse schrijfregels samen tot 37 praktische regel
 
 Lees [`dutch-style-guide.md`](dutch-style-guide.md) voor complete regels en voorbeelden.
 
-### Hulpmiddelen
+### Installatie
 
-Twee hulpmiddelen passen deze regels automatisch toe:
+#### Claude Code Plugin (Aanbevolen)
 
-- **[Claude Code Skill](examples/claude-code-skill/)** — Past regels toe bij het schrijven van Nederlandse tekst in Claude Code
-- **[Fabric Pattern](examples/fabric-pattern/improve_dutch_writing/)** — Analyseert en verbetert bestaande Nederlandse tekst
+Installeer de skill direct als Claude Code plugin:
 
-Zie de README van elk hulpmiddel voor installatie en gebruiksinstructies.
+```bash
+claude plugin install https://github.com/lboshuizen/dutch-style-guide
+```
+
+De skill activeert automatisch bij het schrijven van Nederlandse tekst in Claude Code.
+
+#### Alternatief Hulpmiddel
+
+- **[Fabric Pattern](fabric-pattern/)** — Analyseert en verbetert bestaande Nederlandse tekst met [Fabric](https://github.com/danielmiessler/fabric)
+
+Zie de README van het Fabric pattern voor installatie en gebruiksinstructies.
 
 ## Voor wie is deze gids
 

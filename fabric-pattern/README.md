@@ -16,7 +16,8 @@ The pattern systematically checks Dutch text for violations and provides:
 ### Copy to Fabric Patterns Directory
 
 ```bash
-cp -r examples/fabric-pattern/improve_dutch_writing ~/.config/fabric/patterns/
+# From repository root
+cp -r fabric-pattern ~/.config/fabric/patterns/improve_dutch_writing
 ```
 
 ### Verify Installation
@@ -118,7 +119,7 @@ You can customize `system.md` to adjust:
 
 ## Reference
 
-See [`../../../dutch-style-guide.md`](../../../dutch-style-guide.md) for all 37 rules with examples.
+See [`../dutch-style-guide.md`](../dutch-style-guide.md) for all 37 rules with examples.
 
 See [`system.md`](system.md) for the complete pattern implementation.
 

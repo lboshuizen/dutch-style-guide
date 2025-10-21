@@ -1,0 +1,13 @@
+{
+  "name": "dutch-style-guide",
+  "version": "1.0.0",
+  "description": "Dutch writing guidelines - 37 practical rules for clear, professional Dutch text based on Taalunie, Rijksoverheid, and EC sources",
+  "author": {
+    "name": "Leon Boshuizen",
+    "url": "https://github.com/lboshuizen"
+  },
+  "homepage": "https://github.com/lboshuizen/dutch-style-guide",
+  "repository": "https://github.com/lboshuizen/dutch-style-guide",
+  "license": "CC-BY-4.0",
+  "keywords": ["dutch", "writing", "style-guide", "netherlands", "technical-writing", "documentation", "dutch-language", "taalunie", "rijksoverheid"]
+}
