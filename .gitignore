@@ -1,0 +1,15 @@
+# Claude Code local configuration
+.claude/
+
+# System files
+.DS_Store
+*.swp
+*~
+
+# Editor directories
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
