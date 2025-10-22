@@ -48,6 +48,47 @@ See the Fabric pattern README for installation and usage instructions.
 - Non-native speakers seeking clear guidelines
 - Anyone who writes professionally in Dutch
 
+## Quick Start
+
+### Remove Passive Voice
+
+❌ **Before**: De applicatie wordt geüpdatet door het systeem.
+✅ **After**: Het systeem updatet de applicatie.
+
+### Cut Needless Words
+
+❌ **Before**: Het is belangrijk om te vermelden dat deze functie beschikbaar is.
+✅ **After**: Deze functie is beschikbaar.
+
+### Use Concrete Language
+
+❌ **Before**: De performance is aanzienlijk verbeterd.
+✅ **After**: De laadtijd daalde van 2s naar 0.5s.
+
+[See all 37 rules →](dutch-style-guide.md)
+
+## FAQ
+
+**How does this differ from other Dutch grammar guides?**
+
+This guide focuses on violations, not theory. It targets developers and technical writers with examples from software documentation and commit messages.
+
+**Do I need to know Dutch grammar?**
+
+No. The guide provides clear before/after examples. Apply the rules without understanding the theory.
+
+**Can I use this with AI tools?**
+
+Yes. The Claude Code plugin and Fabric pattern check AI-generated Dutch text.
+
+**Is this only for native Dutch speakers?**
+
+No. Non-native speakers find it especially useful - clear rules without linguistic jargon.
+
+**Can I contribute?**
+
+Yes. Open an [issue](https://github.com/lboshuizen/dutch-style-guide/issues) or submit a pull request.
+
 ## Contributing
 
 Found an error? Have a suggestion? Open an issue or submit a pull request.
