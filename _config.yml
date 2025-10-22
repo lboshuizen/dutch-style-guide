@@ -9,7 +9,7 @@ lang: en
 author: lboshuizen
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
 
