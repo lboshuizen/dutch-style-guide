@@ -1,0 +1,35 @@
+name: Error in guide
+description: Report incorrect rule or example
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Report an error in the style guide.
+
+  - type: input
+    id: rule-number
+    attributes:
+      label: Rule number
+      description: Which rule has the error?
+      placeholder: "e.g., Rule 13"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-wrong
+    attributes:
+      label: What's wrong
+      description: Describe the error
+      placeholder: "The example is incorrect because..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested fix
+      description: How should it be fixed?
+      placeholder: "Change X to Y"
+    validations:
+      required: false

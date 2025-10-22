@@ -1,0 +1,46 @@
+name: Suggest new rule
+description: Propose a new writing rule
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest a new rule for the style guide.
+
+  - type: textarea
+    id: the-rule
+    attributes:
+      label: The rule
+      description: Concise description of the rule
+      placeholder: "Use active voice in instructions"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-matters
+    attributes:
+      label: Why it matters
+      description: Why should this rule be included?
+      placeholder: "Active voice makes instructions clearer..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: example
+    attributes:
+      label: Example (before/after)
+      description: Show the rule in action
+      placeholder: |
+        ❌ Before: De applicatie wordt gestart door de gebruiker.
+        ✅ After: De gebruiker start de applicatie.
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Which authority supports this rule?
+      placeholder: "Taalunie, Rijksoverheid, EC, or other"
+    validations:
+      required: true
