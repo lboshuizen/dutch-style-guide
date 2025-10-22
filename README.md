@@ -1,5 +1,8 @@
 # Dutch Style Guide
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/lboshuizen/dutch-style-guide/issues)
+
 In 1918, William Strunk Jr. wrote _The Elements of Style_—43 pages that distilled English writing to essential rules. Dutch has no equivalent. This guide fills that gap.
 
 ## Why This Exists
@@ -62,6 +65,9 @@ Based on open sources:
 ---
 
 # Nederlandse Stijlgids
+
+[![Licentie: CC BY 4.0](https://img.shields.io/badge/Licentie-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![PRs Welkom](https://img.shields.io/badge/PRs-welkom-brightgreen.svg)](https://github.com/lboshuizen/dutch-style-guide/issues)
 
 In 1918 schreef William Strunk Jr. _The Elements of Style_—43 pagina's die het Engels terugbrachten tot belangrijke regels. Nederlands heeft geen vergelijkbaar boek. Deze gids vult die leemte.
 

@@ -1,6 +1,9 @@
 # Claude Code local configuration
 .claude/
 
+# Private planning documents
+Plans/
+
 # System files
 .DS_Store
 *.swp

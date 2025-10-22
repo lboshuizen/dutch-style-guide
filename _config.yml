@@ -1,0 +1,22 @@
+# Jekyll configuration for Dutch Style Guide
+title: Dutch Style Guide
+description: 37 practical rules for clear Dutch writing
+url: https://lboshuizen.github.io
+baseurl: /dutch-style-guide
+
+# SEO
+lang: en
+author: lboshuizen
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+# Social
+github_username: lboshuizen
+
+# Navigation
+header_pages:
+  - index.md
+  - dutch-style-guide.md
