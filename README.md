@@ -7,7 +7,7 @@ In 1918, William Strunk Jr. wrote _The Elements of Style_—43 pages that distil
 
 ## Why This Exists
 
-Dutch has comprehensive references: the Groene Boekje for spelling, Rijksoverheid for government style, EC guidelines for European institutions. But these run hundreds of pages. Developers need something shorter. Technical writers need quick answers. Teams using AI need clear rules.
+Dutch has detailed references: the Groene Boekje for spelling, Rijksoverheid for government style, EC guidelines for European institutions. But these run hundreds of pages. Developers need something shorter. Technical writers need quick answers. Teams using AI need clear rules.
 
 This guide condenses official Dutch writing standards into 37 practical rules. It focuses on violations, not theory.
 
@@ -24,9 +24,9 @@ Read [`dutch-style-guide.md`](dutch-style-guide.md) for complete rules and examp
 
 ### Installation
 
-#### Claude Code Plugin (Recommended)
+#### Claude Code Skill (Recommended)
 
-Install the skill directly as a Claude Code plugin:
+Install the skill directly as a Claude Code skill:
 
 ```bash
 claude plugin install https://github.com/lboshuizen/dutch-style-guide
@@ -79,7 +79,7 @@ No. The guide provides clear before/after examples. Apply the rules without unde
 
 **Can I use this with AI tools?**
 
-Yes. The Claude Code plugin and Fabric pattern check AI-generated Dutch text.
+Yes. The Claude Code skill and Fabric pattern check AI-generated Dutch text.
 
 **Is this only for native Dutch speakers?**
 
@@ -131,9 +131,9 @@ Lees [`dutch-style-guide.md`](dutch-style-guide.md) voor complete regels en voor
 
 ### Installatie
 
-#### Claude Code Plugin (Aanbevolen)
+#### Claude Code Skill (Aanbevolen)
 
-Installeer de skill direct als Claude Code plugin:
+Installeer de skill direct als Claude Code skill:
 
 ```bash
 claude plugin install https://github.com/lboshuizen/dutch-style-guide
