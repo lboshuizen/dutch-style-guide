@@ -78,7 +78,7 @@ echo "Your text here" | fabric --pattern improve_dutch_writing
 
 | Before | After |
 |--------|-------|
-| De applicatie wordt geüpdatet door het systeem. | Het systeem updatet de applicatie. |
+| De applicatie wordt geupdate door het systeem. | Het systeem werkt de applicatie bij. |
 
 **Impact:** Clearer subject-action relationship, more direct communication.
 
