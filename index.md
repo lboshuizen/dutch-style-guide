@@ -6,11 +6,13 @@ description: Practical writing guide for developers and technical writers. Inclu
 
 # Professional Dutch Writing Guidelines
 
+![Version](https://img.shields.io/badge/version-1.1.1-blue) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ## 37 Practical Rules for Clear, Effective Dutch
 
-A concise style guide for technical writers and developers—condensed from official sources into actionable rules.
+For anyone writing professional Dutch—with examples from software development, business communication, and customer service. Condensed from official sources into 37 actionable rules.
 
-[View on GitHub](https://github.com/lboshuizen/dutch-style-guide) • [Download v1.0.0](https://github.com/lboshuizen/dutch-style-guide/releases/tag/v1.0.0)
+[View on GitHub](https://github.com/lboshuizen/dutch-style-guide)
 
 ---
 

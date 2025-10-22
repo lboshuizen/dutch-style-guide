@@ -1,7 +1,9 @@
 ---
 title: "Nederlandse Stijlgids — Helder Schrijven"
-version: 1.1
-date: 21 oktober 2025
+version: 1.1.1
+date: 22 oktober 2025
+author: Leon Boshuizen
+url: https://github.com/lboshuizen/dutch-style-guide
 license: CC BY 4.0
 summary: "Compacte richtlijnen voor helder, professioneel Nederlands schrijven — toepasbaar op menselijk en AI-gegenereerde tekst."
 sources:
@@ -33,9 +35,35 @@ _Gebaseerd op open bronnen:_
 
 ---
 
+## Overzicht van Alle Regels
+
+| Nr  | Regel                                         | Nr  | Regel                                        |
+| --- | --------------------------------------------- | --- | -------------------------------------------- |
+| 1   | Helder & beknopt schrijven                    | 20  | Punt per zin                                 |
+| 2   | Gewone woorden gebruiken                      | 21  | Dubbele punt bij opsommingen                 |
+| 3   | Geen vaagheid                                 | 22  | Nederlandse aanhalingstekens                 |
+| 4   | Actieve vorm gebruiken                        | 23  | Getallen tot twaalf voluit                   |
+| 5   | Korte zinnen                                  | 24  | Cijfers voor getallen > 12                   |
+| 6   | Eén gedachte per alinea                       | 25  | Datum: 21 oktober 2025                       |
+| 7   | Neutrale en professionele toon                | 26  | Tijd: 14.30 uur                              |
+| 8   | U-vorm voor formele communicatie              | 27  | Valuta: € 1,50                               |
+| 9   | Inclusief en genderneutraal                   | 28  | Opsommingen: kleine letter                   |
+| 10  | Schrijf voor de lezer                         | 29  | Punt bij volledige zin                       |
+| 11  | Schrijf toegankelijk                          | 30  | Geen puntkomma in opsommingen                |
+| 12  | Groene Boekje spelling                        | 31  | Enkele aanhalingstekens bij citaten          |
+| 13  | Geen Engels als Nederlands bestaat            | 32  | Vermeld bron bij citaat                      |
+| 14  | Consistente terminologie                      | 33  | Controleer AI-output systematisch            |
+| 15  | Onderwerp en werkwoord bij elkaar             | 34  | Automatiseer spellingscontrole               |
+| 16  | Verbindingswoorden spaarzaam                  | 35  | Vertaling: post-edit altijd                  |
+| 17  | Geen geneste bijzinnen                        | 36  | Transparantie over AI-gebruik                |
+| 18  | Hoofdletters minimaal                         | 37  | Menselijke verantwoordelijkheid              |
+| 19  | Geen komma vóór "en"                          |     |                                              |
+
+---
+
 ## I. Inleiding
 
-Deze gids vat de essentie samen van helder Nederlands schrijven. Het richt zich op de regels en principes die het meest worden overtreden, en biedt een compact alternatief voor uitputtende handboeken.
+Deze gids bundelt regels voor helder Nederlands. Ze richt zich op veelgemaakte fouten en biedt een compact alternatief voor uitgebreide handboeken.
 
 De richtlijnen zijn afkomstig van officiële bronnen (Taalunie, Rijksoverheid, Europese Commissie). Ze zijn aangepast voor professioneel schrijven: software-documentatie, bedrijfscommunicatie en overheidsteksten.
 
@@ -48,8 +76,8 @@ Deze gids is bedoeld voor iedereen die professionele teksten schrijft in het Ned
 - **Technische documentatie** — README-bestanden, API-documentatie, technische handleidingen
 - **Software development** — commit messages, pull requests, code comments, release notes
 - **UX-teksten** — interface-tekst, foutmeldingen, helptekst, notificaties
-- **Bedrijfscommunicatie** — rapporten, e-mails, presentaties, voorstellen
-- **Overheidscommunicatie** — beleidsdocumenten, brieven, formulieren
+- **Bedrijfscommunicatie** — rapporten, e-mails, voorstellen, formele brieven
+- **Klantenservice** — supportreacties, FAQ-antwoorden, klantcommunicatie
 
 Of u nu zelf schrijft of AI gebruikt: deze principes helpen u helder en professioneel te communiceren.
 
@@ -69,7 +97,7 @@ Raadpleeg deze gids tijdens het schrijven. Raadpleeg hem ook tijdens het rediger
 
 _Elk woord telt._
 
-Dit is de meest fundamentele regel van goed schrijven. Elk woord moet werk verrichten. Overbodige woorden vertroebelen betekenis en vervelen de lezer.
+Elk woord moet werk verrichten. Overbodige woorden vertroebelen betekenis en vervelen de lezer.
 
 **Slecht:**
 > In het geval dat u problemen ondervindt met betrekking tot de installatie van de software, dan kunt u contact opnemen met onze afdeling voor technische ondersteuning.
@@ -95,7 +123,7 @@ Veelvoorkomende overbodige uitdrukkingen:
 
 Kies gangbare termen boven jargon of vaktaal, tenzij het doelpubliek dat specifiek vereist.
 
-Eenvoudig Nederlands is niet dom Nederlands. Het is respectvol Nederlands dat de lezer niet dwingt te raden wat je bedoelt.
+Eenvoudig Nederlands respecteert de lezer.
 
 **Voorbeelden van vereenvoudiging:**
 - `faciliteren` → `mogelijk maken`
@@ -175,6 +203,8 @@ _Goede tekst dient de lezer, niet de schrijver._
 Respectvol schrijven betekent: helder, eerlijk en zonder opsmuk communiceren.
 
 ### 7. Toon neutraal en professioneel — geen overdrijving of subjectieve kwalificaties
+
+_Toon is vertrouwen._
 
 Vermijd superlatieven, overdrijving en subjectieve kwalificaties. Laat feiten spreken.
 
@@ -267,7 +297,7 @@ Maak bij grote projecten een termenlijst.
 
 ## V. Zinsbouw
 
-### 15. Zet onderwerp + werkwoord dicht bij elkaar
+### 15. Houd onderwerp en werkwoord bij elkaar
 
 Afstand tussen onderwerp en werkwoord maakt zinnen moeilijk te volgen.
 
@@ -464,6 +494,8 @@ Bron: Europese Commissie (DGT), CC BY 4.0 International.
 
 ## X. Digitale Toepassing en AI-Assistentie
 
+_AI kan helpen schrijven, maar niet denken._
+
 AI-assistentie versnelt schrijven, maar verhoogt ook de nood aan controle.
 
 ### 33. Controleer gegenereerde tekst systematisch
@@ -490,7 +522,9 @@ Vermeld indien tekst geheel of deels door AI is gegenereerd, wanneer dit relevan
 
 In contexten waar transparantie wordt verwacht (bijvoorbeeld wetenschappelijke publicaties, beleidsdocumenten, of contracten) hoort duidelijkheid over de rol van AI bij professioneel handelen.
 
-**Let op:** Toekomstige EU-regelgeving (AI Act) kan transparantievereisten stellen aan AI-gegenereerde content. Houd ontwikkelingen in de gaten voor compliance.
+**Traceerbaarheid:**
+
+Gebruik metadata of logregels om AI-bijdragen traceerbaar te houden. Dit ondersteunt kwaliteitscontrole en compliance.
 
 **Voorbeelden waar transparantie relevant is:**
 - Wetenschappelijke of academische teksten
@@ -502,6 +536,10 @@ In contexten waar transparantie wordt verwacht (bijvoorbeeld wetenschappelijke p
 - Routine-communicatie (standaard e-mails, notificaties)
 - Technische documentatie (tenzij organisatiebeleid anders voorschrijft)
 - Marketing- en UX-teksten (focus ligt op kwaliteit, niet op auteur)
+
+**Toekomstige ontwikkelingen:**
+
+De EU AI Act vereist mogelijk transparantie over AI-gegenereerde content in bepaalde sectoren. Volg deze ontwikkelingen voor compliance.
 
 ### 37. Bewaar menselijke verantwoordelijkheid
 

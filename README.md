@@ -7,16 +7,16 @@ In 1918, William Strunk Jr. wrote _The Elements of Style_—43 pages that distil
 
 ## Why This Exists
 
-Dutch has detailed references: the Groene Boekje for spelling, Rijksoverheid for government style, EC guidelines for European institutions. But these run hundreds of pages. Developers need something shorter. Technical writers need quick answers. Teams using AI need clear rules.
+Dutch has detailed references: the Groene Boekje for spelling, Rijksoverheid for government style, EC guidelines for European institutions. But these run hundreds of pages. Professional writers need something shorter. Clear rules, not theory.
 
 This guide condenses official Dutch writing standards into 37 practical rules. It focuses on violations, not theory.
 
 ## What Makes This Different
 
 - **Built from official sources:** Taalunie, Rijksoverheid, European Commission
-- **Focused on violations:** Common errors in software documentation, commit messages, UI text
+- **Focused on violations:** Common errors in software documentation, business communication, customer service
 - **Addresses AI-generated content:** Rules for reviewing and improving AI-assisted writing
-- **Practical examples:** Real-world cases from software development, technical writing, business communication
+- **Practical examples:** Real-world cases from software development, business communication, and customer service
 
 ## How to Use
 
@@ -42,11 +42,12 @@ See the Fabric pattern README for installation and usage instructions.
 
 ## Who This Is For
 
-- Software developers writing Dutch documentation
-- Technical writers working in Dutch
+- Anyone writing professional Dutch
+- Software developers and technical writers
+- Business professionals writing reports, proposals, and emails
+- Customer service teams writing support responses and FAQs
 - Teams using AI for Dutch content
 - Non-native speakers seeking clear guidelines
-- Anyone who writes professionally in Dutch
 
 ## Quick Start
 
@@ -71,7 +72,7 @@ See the Fabric pattern README for installation and usage instructions.
 
 **How does this differ from other Dutch grammar guides?**
 
-This guide focuses on violations, not theory. It targets developers and technical writers with examples from software documentation and commit messages.
+This guide focuses on violations, not theory. It provides practical examples from software development, business communication, and customer service.
 
 **Do I need to know Dutch grammar?**
 
@@ -114,16 +115,16 @@ In 1918 schreef William Strunk Jr. _The Elements of Style_—43 pagina's die het
 
 ## Waarom deze gids bestaat
 
-Nederlands heeft uitgebreide naslagwerken: het Groene Boekje voor spelling, Rijksoverheid voor overheidsstijl, EC-richtlijnen voor Europese instellingen. Maar deze tellen honderden pagina's. Ontwikkelaars hebben iets korters nodig. Technical writers hebben snelle antwoorden nodig. Teams die AI gebruiken hebben heldere regels nodig.
+Nederlands heeft uitgebreide naslagwerken: het Groene Boekje voor spelling, Rijksoverheid voor overheidsstijl, EC-richtlijnen voor Europese instellingen. Maar deze tellen honderden pagina's. Professionals hebben iets korters nodig. Heldere regels, geen theorie.
 
 Deze gids vat officiële Nederlandse schrijfregels samen tot 37 praktische regels. De nadruk ligt op veel gemaakte fouten, niet op theorie.
 
 ## Wat deze gids anders maakt
 
 - **Gebaseerd op officiële bronnen:** Taalunie, Rijksoverheid, Europese Commissie
-- **Nadruk op fouten:** Veel voorkomende vergissingen in softwaredocumentatie, commit messages, UI-tekst
+- **Nadruk op fouten:** Veel voorkomende vergissingen in softwaredocumentatie, zakelijke communicatie, klantenservice
 - **AI-tekst:** Regels voor het controleren en verbeteren van AI-tekst
-- **Praktische voorbeelden:** Echte voorbeelden uit softwareontwikkeling, technical writing, zakelijke communicatie
+- **Praktische voorbeelden:** Echte voorbeelden uit softwareontwikkeling, zakelijke communicatie en klantenservice
 
 ## Hoe te gebruiken
 
@@ -149,11 +150,12 @@ Zie de README van het Fabric pattern voor installatie en gebruiksinstructies.
 
 ## Voor wie is deze gids
 
-- Softwareontwikkelaars die Nederlandse documentatie schrijven
-- Technical writers die in het Nederlands werken
+- Iedereen die professioneel in het Nederlands schrijft
+- Softwareontwikkelaars en technical writers
+- Zakelijke professionals die rapporten, voorstellen en e-mails schrijven
+- Klantenservice teams die supportreacties en FAQ's schrijven
 - Teams die AI gebruiken voor Nederlandse content
 - Niet-moedertaalsprekers die heldere richtlijnen zoeken
-- Iedereen die professioneel in het Nederlands schrijft
 
 ## Bijdragen
 
