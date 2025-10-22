@@ -14,6 +14,14 @@ A concise style guide for technical writers and developers—condensed from offi
 
 ---
 
+William Strunk Jr.'s *Elements of Style* (1918) distilled English writing to 43 pages of essential rules. Dutch lacks such a guide.
+
+Dutch references exist—the Groene Boekje for spelling, Rijksoverheid for government communications, EC guidelines for European institutions—but span hundreds of pages. Developers need quick reference. Technical writers need immediate answers. Teams reviewing AI-generated content need clear standards.
+
+This guide condenses official Dutch writing standards into 37 practical rules, focusing on violations rather than linguistic theory.
+
+---
+
 ## Key Features
 
 | **37 Rules** | **3 Official Sources** | **Open Source** |
