@@ -61,7 +61,8 @@ This guide serves professionals who write in Dutch:
 Automated checking for Dutch text in Claude Code:
 
 ```bash
-claude plugin install https://github.com/lboshuizen/dutch-style-guide
+claude plugin marketplace add lboshuizen/dutch-style-guide
+claude plugin install dutch-style-guide@dutch-style-guide
 ```
 
 The skill applies all 37 rules automatically when you write Dutch text.

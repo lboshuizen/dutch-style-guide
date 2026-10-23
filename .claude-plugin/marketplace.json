@@ -1,0 +1,14 @@
+{
+  "name": "dutch-style-guide",
+  "owner": {
+    "name": "Leon Boshuizen",
+    "url": "https://github.com/lboshuizen"
+  },
+  "plugins": [
+    {
+      "name": "dutch-style-guide",
+      "source": "./",
+      "description": "Dutch writing guidelines - 37 practical rules for clear, professional Dutch text based on Taalunie, Rijksoverheid, and EC sources"
+    }
+  ]
+}

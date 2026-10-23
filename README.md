@@ -29,7 +29,8 @@ Read [`dutch-style-guide.md`](dutch-style-guide.md) for complete rules and examp
 Install the skill directly as a Claude Code skill:
 
 ```bash
-claude plugin install https://github.com/lboshuizen/dutch-style-guide
+claude plugin marketplace add lboshuizen/dutch-style-guide
+claude plugin install dutch-style-guide@dutch-style-guide
 ```
 
 The skill activates automatically when writing Dutch text in Claude Code.
@@ -137,7 +138,8 @@ Lees [`dutch-style-guide.md`](dutch-style-guide.md) voor complete regels en voor
 Installeer de skill direct als Claude Code skill:
 
 ```bash
-claude plugin install https://github.com/lboshuizen/dutch-style-guide
+claude plugin marketplace add lboshuizen/dutch-style-guide
+claude plugin install dutch-style-guide@dutch-style-guide
 ```
 
 De skill activeert automatisch bij het schrijven van Nederlandse tekst in Claude Code.
